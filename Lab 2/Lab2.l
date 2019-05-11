@@ -1,5 +1,5 @@
 /*2. Develop, Implement and execute a program using YACC tool to recognize all strings ending with
-b preceded by n a’s using the grammar a n b (note: input n value).*/
+b preceded by n a’s using the grammar a n b (note: input n value). */
 %{
  #include "y.tab.h"
 %}
